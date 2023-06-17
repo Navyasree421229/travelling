@@ -1,0 +1,1107 @@
+@media (max-width:779px){
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.travel{
+    background-image: url(https://img.theculturetrip.com/wp-content/uploads/2019/12/gettyimages-1152083012.jpg);
+    height:1000px;
+    width: 100%;    
+    background-size: cover;
+    background-position: center;
+}
+.row-one{
+    display: flex;
+    flex-direction: row;
+}
+.phn{
+    background-color: rgb(51, 121, 192);
+    color:white;
+    width:30px;
+    height:30px;
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-left: 25%;
+    text-align:center;
+    padding-top:10px
+}
+.Conta{
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    color: white;
+    text-align: center;
+}
+.non{
+    border: 0.5px solid white;
+    opacity: 0.3;
+    margin:0 15px;
+}
+.row-two{
+    margin: 15px 15px;
+    display: flex;
+    flex-direction: row;
+} 
+.search{
+    color: white;
+    font-size: 15px;
+    margin-left: 35%;
+    margin-top: 10px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding-top: 7px;
+}
+.menu{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left:15px;
+    top: 15px;
+}
+.row-three{
+    color:white;
+    text-align: center;
+    margin:15px auto;
+    font-size: 35px;
+}
+.men{
+    color:white;
+    background-color: rgb(51, 121, 192);
+    font-size: 20px;
+    width:30px;
+    height: 30px;
+    text-align: center;
+    margin:0 15px;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+.book{
+    color:white;
+    background-color: rgb(51, 63, 192);
+    font-size: 15px;
+    width:80px;
+    height: 30px;
+    text-align: center;
+    margin-left:70%;
+    border-radius: 50px;
+}
+.row-four{
+    text-align: center;
+    font-size:5vw;
+    color: white;
+    width:70%;
+    margin:auto auto;
+    margin-top: 180px;
+}
+.row-five{
+    text-align: center;
+    font-size:18px;
+    color: white;
+    width:90%;
+    margin:auto auto;
+    margin-top: 30px;
+}
+.learn{
+    background-color: rgb(51, 121, 192);
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width:150px;
+    height: 40px;
+    border-radius:30px ;
+    margin-top: 40px;
+    margin-left: 20%;
+    padding-top: 15px;
+}
+.now{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width:150px;
+    height: 40px;
+    border-radius:30px ;
+    margin-top: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-left: 30px;
+    padding-top:15px;
+}
+.now:hover{
+    background-color: rgb(51, 121, 192);
+}
+.form-box{
+    height:600px;
+    width: 100%;
+    background-color: rgb(51, 121, 192);
+}
+.fill{
+    color:white;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin-left:15px;
+    position: relative;
+    top:50px;
+}
+.input-field{
+    width:90%;
+    height:60px;
+    margin-left:10px;
+    position: relative;
+    top:60px;
+    border-radius:30px;
+    border:2px solid white;
+    font-size:18px;
+    color: rgb(125, 124, 124);
+    padding-left: 10px;
+}
+.fill-one{
+    color:white;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin-left:15px;
+    position: relative;
+    top:70px;
+}
+.input-field-one{
+    width:90%;
+    height:60px;
+    margin-left:10px;
+    position: relative;
+    top:80px;
+    border-radius:30px;
+    border:2px solid white;
+    font-size:18px;
+    color: rgb(125, 124, 124);
+    padding-left: 10px;
+}
+.fill-two{
+    color:white;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin-left:15px;
+    position: relative;
+    top:90px;
+}
+.input-field-two{
+    width:90%;
+    height:60px;
+    margin-left:10px;
+    position: relative;
+    top:100px;
+    border-radius:30px;
+    border:2px solid white;
+    font-size:18px;
+    color: rgb(125, 124, 124);
+    padding-left: 10px;
+}
+.fill-three{
+    color:white;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin-left:15px;
+    position: relative;
+    top:110px;
+}
+.input-field-three{
+    width:90%;
+    height:60px;
+    margin-left:10px;
+    position: relative;
+    top:120px;
+    border-radius:30px;
+    border:2px solid white;
+    font-size:18px;
+    color: rgb(125, 124, 124);
+    padding-left: 10px;
+}
+.nop{
+    color:white;
+    border:1px solid white;
+    position: relative;
+    top:140px;
+    width:90%;
+    height: 40px;
+    text-align: center;
+    border-radius: 50px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.row-six{
+    text-align: center;
+    margin-top:100px;
+}
+.hea{
+    margin-top: 20px;
+    font-size: 5vw;
+}
+.ima-one{
+    border: 1px solid white;
+    height: 450px;
+    margin: 40px 20px;
+    background-image: url(https://img.freepik.com/premium-photo/cathedral-santa-maria-della-salute-venice-italy_170984-3848.jpg?w=996);
+    background-position: center;
+    background-size: cover;
+    border-radius: 30px;
+}
+.sub-ima{
+    background-color: white;
+    width: 85%;
+    margin-top: 300px;
+    margin-left: 20px;
+    height: 120px;
+    padding-left: 30px;
+    padding-top: 15px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+.sub-sub-ima{
+    background-color: rgb(51, 121, 192);
+    width:100px;
+    height: 30px;
+    margin-left: 260px;
+    position: relative;
+    bottom: 35px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+}
+.ima-two{
+    border: 1px solid white;
+    height: 450px;
+    margin: 40px 20px;
+    background-image: url(https://cdn.britannica.com/37/135437-050-A12461CC/Burj-Khalifa-world-Sheikh-Khalifah-ibn-Zayid-2010.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 30px;
+}
+.ima-three{
+    border: 1px solid white;
+    height: 450px;
+    margin: 40px 20px;
+    background-image: url(https://windows10spotlight.com/wp-content/uploads/2020/12/045b2271fd4055f88978ee00d0345b76-1024x576.jpg);
+    background-position:center;
+    background-size: cover;
+    border-radius: 30px;
+}
+.more{
+    text-align: center;
+    width:200px;
+    height: 40px;
+    background-color: rgb(51, 121, 192);
+    color: white;
+    margin-left: 35%;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+.row-eight{
+    height:900px;
+    border-radius: 15px;
+    margin: 30px 20px;
+}
+.one{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image8.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+.one-one{
+    height: 400px;
+    background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image10.jpg);
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.one-two{
+    height: 400px;
+    background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image9.jpg);
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.two{
+    margin: 20px 20px;
+    font-size: 20px;
+}
+.three{
+    background-color: white;
+    width:250px;
+    height: 30px;
+    margin:20px 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+    padding-left: 5px;
+    box-shadow: 0 2px 4px rgb(169, 169, 169);
+    color: rgb(51, 121, 192);
+}
+.four{
+    background-color: rgb(51, 121, 192);
+    height: 250px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+    opacity: 0.85;
+}
+.five{
+    padding-top: 30px;
+    color: white;
+}
+.six{
+    color: white;
+    padding-top: 30px;
+    font-size: 35px;
+}
+.seven{
+    color: white;
+    font-size: 18px;
+    border: 1px solid white;
+    border-radius: 20px;
+    width:150px;
+    height: 30px;
+    padding-top: 20px;
+    margin-left: 150px;
+}
+.travel-one{
+    background-image: url(https://i.etsystatic.com/20526396/r/il/0ffe1f/3297184494/il_1588xN.3297184494_58in.jpg);
+    height:700px;
+    width: 100%; 
+    margin-top: 200px;   
+    background-size: cover;
+    background-position: center;
+}
+.play{
+    font-size: 80px;
+    text-align: center;
+    position: relative;
+    top:80px;
+    color: rgb(51, 121, 192);
+    background-color: white;
+    height: 70px;
+    width: 70px;
+    margin-left: 200px;
+    border-radius: 90%;
+}
+.row-nine{
+    background-color: white;
+    margin: 0 20px;
+    height: 420px;
+    position: relative;
+    bottom: 80px;
+    border-radius: 30px;
+    box-shadow: 0 2px 4px rgb(209, 201, 201);
+}
+.subscribe{
+    text-align: center;
+    margin-top: 30px;
+}
+.subs-one{
+    font-size: 30px;
+}
+.subs-two{
+    border: 0.5px solid rgb(193, 185, 185);
+    margin: 20px 20px;
+}
+.row-ten{
+    height: 500px;
+    margin:20px 20px;
+    background-image: url(https://previews.123rf.com/images/everst/everst1704/everst170400020/75504979-traveler-man-mountaineering-with-backpack-travel-lifestyle-concept-adventure-summer-vacations.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+.row-eleven{
+    height: 500px;
+    margin:20px 20px;
+    background-image: url(https://cdn-imgix.headout.com/blog-content/image/9ead73c770c985c17e2f969da09fb013-See%20the%20Eiffel%20Tower.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+.back-one{
+    background-color: white;
+    width:120px;
+    height: 30px;
+    margin-left:67%;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    border-radius: 30px;
+    opacity: 0.5;
+    color: blue;
+}
+.back-two{
+    background-color: white;
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    opacity: 0.8;
+}
+.fro-one{
+    width:250px;
+    height: 30px;
+    margin:10px 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+    padding-left: 5px;
+    color: rgb(51, 121, 192);
+}
+.fro-two{
+    margin-left: 30px;
+}
+.fro-three{
+    margin-left:30px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.fro-four{
+    background-color: rgb(28, 112, 190);
+    width:120px;
+    margin-left:30px;
+    margin-top: 10px;
+    height: 30px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 20px;
+    color: white;
+}
+.ro-one{
+    background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image38.jpg);
+    height: 300px;
+    margin: 20px 20px;
+    border-radius: 20px;
+}
+.ro-two{
+    background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image34.jpg);
+    height: 400px;
+    margin: 20px 20px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: cover;
+}
+.ro-three{
+    background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image32.jpg);
+    height: 400px;
+    margin: 20px 20px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: cover;
+}
+.ro-four{
+    background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image39.jpg);
+    height: 700px;
+    margin: 20px 20px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: cover;
+}
+.ro-five{
+    background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image30.jpg);
+    height: 250px;
+    margin: 20px 50px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: cover;
+}
+.ro-six{
+    background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image33.jpg);
+    height: 250px;
+    margin: 20px 50px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: cover;
+}
+}
+@media (min-width:780px){
+    *{
+        margin:0;
+        padding: 0;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .travel{
+        border:2px solid blue;
+        background-image: url(https://img.theculturetrip.com/wp-content/uploads/2019/12/gettyimages-1152083012.jpg);
+        height:1000px;
+        width: 100%;    
+        background-size: cover;
+        background-position: center;
+    }
+    .row-one{
+        display: flex;
+        flex-direction: row;
+    }
+    .phn{
+        background-color: rgb(51, 121, 192);
+        color:white;
+        width:30px;
+        height:30px;
+        border-radius: 50%;
+        margin-top: 25px;
+        margin-left: 25%;
+        text-align:center;
+        padding-top:10px
+    }
+    .Conta{
+        margin-top: 25px;
+        margin-left: 10px;
+        margin-bottom: 15px;
+        color: white;
+        text-align: center;
+    }
+    .non{
+        border: 0.5px solid white;
+        opacity: 0.3;
+        margin:0 15px;
+    }
+    .row-two{
+        margin: 15px 15px;
+        display: flex;
+        flex-direction: row;
+    } 
+    .search{
+        color: white;
+        font-size: 15px;
+        margin-left: 65%;
+        margin-top: 10px;
+        background-color: transparent;
+        border: 1px solid white;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        padding-top: 7px;
+    }
+    .menu{
+        color: white;
+        font-size: 20px;
+        position: relative;
+        left:15px;
+        top: 15px;
+    }
+    .row-three{
+        color:white;
+        text-align: center;
+        margin:15px auto;
+        font-size: 35px;
+    }
+    .men{
+        color:white;
+        background-color: rgb(51, 121, 192);
+        font-size: 20px;
+        width:30px;
+        height: 30px;
+        text-align: center;
+        margin:0 15px;
+        border-radius: 5px;
+        padding-top: 10px;
+    }
+    .book{
+        color:white;
+        background-color: rgb(51, 63, 192);
+        font-size: 15px;
+        width:80px;
+        height: 30px;
+        text-align: center;
+        margin-left:80%;
+        border-radius: 50px;
+    }
+    .row-four{
+        text-align: center;
+        font-size:5vw;
+        color: white;
+        width:70%;
+        margin:auto auto;
+        margin-top: 180px;
+    }
+    .row-five{
+        text-align: center;
+        font-size:18px;
+        color: white;
+        width:90%;
+        margin:auto auto;
+        margin-top: 30px;
+    }
+    .learn{
+        background-color: rgb(51, 121, 192);
+        color: white;
+        text-align: center;
+        font-size: 15px;
+        width:150px;
+        height: 40px;
+        border-radius:30px ;
+        margin-top: 40px;
+        margin-left: 40%;
+        padding-top: 15px;
+    }
+    .now{
+        color: white;
+        text-align: center;
+        font-size: 15px;
+        width:150px;
+        height: 40px;
+        border-radius:30px ;
+        margin-top: 40px;
+        border: 1px solid white;
+        border-radius: 20px;
+        margin-left: 30px;
+        padding-top:15px;
+    }
+    .now:hover{
+        background-color: rgb(51, 121, 192);
+    }
+    .form-box{
+        height:350px;
+        width: 100%;
+        background-color: rgb(51, 121, 192);
+        
+    }
+    .dom{
+        display: flex;
+        flex-direction: column;
+    }
+    .fill{
+        color:white;
+        font-size:20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+        margin-left:15px;
+        position: relative;
+        top:50px;
+    }
+    .input-field{
+        width:40%;
+        height:60px;
+        margin-left:10px;
+        position: relative;
+        top:60px;
+        border-radius:30px;
+        border:2px solid white;
+        font-size:18px;
+        color: rgb(125, 124, 124);
+        padding-left: 10px;
+    }
+    .fill-one{
+        color:white;
+        font-size:20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+        margin-left:540px;
+        position: relative;
+        bottom:30px;
+    }
+    .input-field-one{
+        width:30%;
+        height:60px;
+        margin-left:540px;
+        position: relative;
+        bottom:20px;
+        border-radius:30px;
+        border:2px solid white;
+        font-size:18px;
+        color: rgb(125, 124, 124);
+        padding-left: 10px;
+    }
+    .fill-two{
+        color:white;
+        font-size:20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+        margin-left:15px;
+        position: relative;
+        top:20px;
+    }
+    .input-field-two{
+        width:20%;
+        height:60px;
+        margin-left:10px;
+        position: relative;
+        top:30px;
+        border-radius:30px;
+        border:2px solid white;
+        font-size:18px;
+        color: rgb(125, 124, 124);
+        padding-left: 10px;
+    }
+    .fill-three{
+        color:white;
+        font-size:20px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+        margin-left:305px;
+        position: relative;
+        bottom:70px;
+    }
+    .input-field-three{
+        width:20%;
+        height:60px;
+        margin-left:305px;
+        position: relative;
+        bottom:60px;
+        border-radius:30px;
+        border:2px solid white;
+        font-size:18px;
+        color: rgb(125, 124, 124);
+        padding-left: 10px;
+    }
+    .nop{
+        color:white;
+        border:1px solid white;
+        position: relative;
+        bottom: 120px;
+        width:30%;
+        height: 40px;
+        text-align: center;
+        border-radius: 50px;
+        margin-left: 600px;
+        padding-top: 10px;
+    }
+    .row-six{
+        text-align: center;
+        margin-top:100px;
+    }
+    .hea{
+        margin-top: 20px;
+        font-size: 3vw;
+    }
+    .row-seven{
+        display: flex;
+        flex-direction: row;
+    }
+    .ima-one{
+        border: 1px solid white;
+        height: 300px;
+        width: 30%;
+        margin: 40px 20px;
+        background-image: url(https://img.freepik.com/premium-photo/cathedral-santa-maria-della-salute-venice-italy_170984-3848.jpg?w=996);
+        background-position: center;
+        background-size: cover;
+        border-radius: 30px;
+    }
+    .sub-ima{
+        background-color: white;
+        width: 70%;
+        margin-top: 170px;
+        margin-left: 20px;
+        height: 100px;
+        padding-left: 30px;
+        padding-top: 10px;
+        border-radius: 20px;
+        font-size: 12px;
+        padding-bottom: 20px;
+    }
+    .sub-sub-ima{
+        background-color: rgb(51, 121, 192);
+        width:100px;
+        height: 30px;
+        margin-left: 30%;
+        position: relative;
+        bottom: 35px;
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        padding-top: 2px;
+    }
+    .ima-two{
+        border: 1px solid white;
+        height: 300px;
+        width: 30%;
+        margin: 40px 20px;
+        background-image: url(https://cdn.britannica.com/37/135437-050-A12461CC/Burj-Khalifa-world-Sheikh-Khalifah-ibn-Zayid-2010.jpg);
+        background-position: center;
+        background-size: cover;
+        border-radius: 30px;
+    }
+    .ima-three{
+        border: 1px solid white;
+        height: 300px;
+        width: 30%;
+        margin: 40px 20px;
+        background-image: url(https://windows10spotlight.com/wp-content/uploads/2020/12/045b2271fd4055f88978ee00d0345b76-1024x576.jpg);
+        background-position:center;
+        background-size: cover;
+        border-radius: 30px;
+    }
+    .more{
+        text-align: center;
+        width:200px;
+        height: 40px;
+        background-color: rgb(51, 121, 192);
+        color: white;
+        margin-left: 38%;
+        border-radius: 20px;
+        padding-top: 20px;
+    }
+    .row-eight{
+        height:290px;
+        border-radius: 15px;
+        margin: 30px 20px;
+        display: flex;
+        flex-direction: row;
+    }
+    .one{
+        height: 290px;
+        width:50%;
+        margin-left: 20px;
+        border: 1px solid blue;
+        background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image8.jpg);
+        background-position: center;
+        background-size: cover;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+    .one-one{
+        height: 290px;
+        width:50%;
+        margin-left: 20px;
+        border: 1px solid blue;
+        background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image10.jpg);
+        background-position: center;
+        background-size: cover;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+    .one-two{
+        height: 290px;
+        width:50%;
+        margin-left: 20px;
+        border: 1px solid blue;
+        background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image9.jpg);
+        background-position: center;
+        background-size: cover;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+    .box-two{
+        width:400px;
+        height:250px
+    }
+    .two{
+        margin: 20px 20px;
+        font-size: 20px;
+        text-align: justify;
+    }
+    .three{
+        background-color: white;
+        width:250px;
+        height: 30px;
+        margin:20px 20px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: row;
+        padding-top: 15px;
+        padding-left: 5px;
+        box-shadow: 0 2px 4px rgb(169, 169, 169);
+        color: rgb(51, 121, 192);
+    }
+    .four{
+        background-color: rgb(51, 121, 192);
+        height: 290px;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        text-align: center;
+        opacity: 0.85;
+    }
+    .five{
+        padding-top: 30px;
+        color: white;
+    }
+    .six{
+        color: white;
+        padding-top: 30px;
+        font-size: 35px;
+    }
+    .seven{
+        color: white;
+        font-size: 18px;
+        border: 1px solid white;
+        border-radius: 20px;
+        width:150px;
+        height: 30px;
+        padding-top: 20px;
+        margin-left: 150px;
+        position: relative;
+        right:50px;
+    }
+    .travel-one{
+        background-image: url(https://i.etsystatic.com/20526396/r/il/0ffe1f/3297184494/il_1588xN.3297184494_58in.jpg);
+        height:780px;
+        width: 100%; 
+        margin-top: 200px;   
+        background-size: cover;
+        background-position: center;
+    }
+    .play{
+        font-size: 80px;
+        text-align: center;
+        position: relative;
+        top:80px;
+        color: rgb(51, 121, 192);
+        background-color: white;
+        height: 70px;
+        width: 70px;
+        margin-left: 50%;
+        border-radius: 90%;
+    }
+    .row-nine{
+        background-color: white;
+        margin: 0 20px;
+        height: 200px;
+        position: relative;
+        bottom: 10px;
+        border-radius: 30px;
+        box-shadow: 0 2px 4px rgb(209, 201, 201);
+        display: flex;
+        flex-direction: row;
+    }
+    .subscribe{
+        text-align: center;
+        margin-top: 30px;
+        margin-right: 3%;
+        margin-left: 4%;
+    }
+    .subs-one{
+        font-size: 5vw;
+    }
+    .subs-two{
+        border: 0.5px solid rgb(193, 185, 185);
+        margin: 20px 20px;
+    }
+    .row-ten{
+        height: 500px;
+        margin:20px 20px;
+        background-image: url(https://previews.123rf.com/images/everst/everst1704/everst170400020/75504979-traveler-man-mountaineering-with-backpack-travel-lifestyle-concept-adventure-summer-vacations.jpg);
+        background-size: cover;
+        border-radius: 20px;
+    }
+    .back-one{
+        background-color: white;
+        width:120px;
+        height: 30px;
+        margin-left:67%;
+        margin-top: 20px;
+        padding-top: 20px;
+        padding-left: 10px;
+        border-radius: 30px;
+        opacity: 0.5;
+        color: blue;
+    }
+    .back-two{
+        background-color: white;
+        height: 250px;
+        margin-top: 150px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius: 30px;
+        opacity: 0.8;
+    }
+    .fro-one{
+        width:250px;
+        height: 30px;
+        margin:10px 30px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: row;
+        padding-top: 15px;
+        padding-left: 5px;
+        color: rgb(51, 121, 192);
+    }
+    .fro-two{
+        margin-left: 30px;
+    }
+    .fro-three{
+        margin-left:30px;
+        display: flex;
+        flex-direction: row;
+        margin-top: 20px;
+    }
+    .fro-four{
+        background-color: rgb(28, 112, 190);
+        width:120px;
+        margin-left:30px;
+        margin-top: 10px;
+        height: 30px;
+        text-align: center;
+        padding-top: 20px;
+        border-radius: 20px;
+        color: white;
+    }
+    .row-twelve{
+        display: flex;
+        flex-direction: row;
+    }
+    .row-eleven{
+        height: 500px;
+        margin:20px 20px;
+        background-image: url(https://cdn-imgix.headout.com/blog-content/image/9ead73c770c985c17e2f969da09fb013-See%20the%20Eiffel%20Tower.jpg);
+        background-position: center;
+        background-size: cover;
+        border-radius: 20px;
+    }
+    .ro-one{
+        background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image38.jpg);
+        height: 300px;
+        margin: 20px 20px;
+        border-radius: 20px;
+        width:400px;
+    }
+    .ro-two{
+        background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image34.jpg);
+        height: 200px;
+        margin: 20px 20px;
+        border-radius: 20px;
+        background-position: center;
+        background-size: cover;
+        width:200px;
+    }
+    .ro-three{
+        background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image32.jpg);
+        height: 200px;
+        margin: 20px 20px;
+        border-radius: 20px;
+        background-position: center;
+        background-size: cover;
+        width:200px;
+    }
+    .ro-four{
+        background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image39.jpg);
+        height: 550px;
+        margin: 20px 20px;
+        border-radius: 20px;
+        background-position: center;
+        background-size: cover;
+        width:300px
+    }
+    .ro-five{
+        background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image30.jpg);
+        height: 250px;
+        margin: 20px 50px;
+        border-radius: 20px;
+        background-position: center;
+        background-size: cover;
+        width:300px;
+    }
+    .ro-six{
+        background-image: url(http://demo.stairthemes.com/traveler/wp-content/uploads/sites/2/2022/02/traveler-image33.jpg);
+        height: 250px;
+        margin: 20px 50px;
+        border-radius: 20px;
+        background-position: center;
+        background-size: cover;
+        width:300px
+    }
+    .col-two{
+        display: flex;
+        flex-direction: row;
+    }
+}
